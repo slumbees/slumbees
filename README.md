@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @slumbees
+- 👀 I’m interested in bot development and learning coding languages liek C#, HTML, Java & Lua
+- 🌱 I’m currently learning Python!
+- 📫 How to reach me: slumbee@tutanota.com
